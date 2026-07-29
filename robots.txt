@@ -1,1 +1,1 @@
-Sitemap: https://so.udl.cat/sitemap.xml
+Sitemap: https://os.udl.cat/sitemap.xml
