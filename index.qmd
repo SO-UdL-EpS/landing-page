@@ -1,0 +1,60 @@
+---
+title: "SO"
+page-layout: full
+navbar: false
+
+format:
+  html:
+    title-block: false
+    toc: false
+    css: styles.css
+    self-contained: false
+---
+
+<main class="landing">
+<div class="container">
+
+<header class="hero">
+
+<h1>
+Sistemes Operatius
+</h1>
+
+<p class="hero-subtitle">
+Curs sobre disseny i gestió de sistemes operatius basats en Unix, amb especial atenció als processos, mecanismes de comunicació, planificació de tasques i la gestió de memòria.
+</p>
+
+<div class="hero-meta">
+<span>Curs 2026–2027 ·</span>
+<span>Primer semestre ·</span>
+<span>9 ECTS</span>
+</div>
+
+</header>
+
+<section class="campus-grid" aria-label="Campus">
+<a class="campus-card" href="https://lleida.so.udl.cat/">
+<img class="campus-card__image" src="assets/campus_lleida.png" alt="Campus Lleida" loading="lazy">
+<div class="campus-card__content">
+<h2>Campus Lleida</h2>
+<p>Grau en Enginyeria Informàtica</p>
+<span class="campus-card__link">Accedir al curs</span>
+</div>
+</a>
+<a class="campus-card" href="https://igualada.so.udl.cat/">
+<img class="campus-card__image" src="assets/campus_igualada.png" alt="Campus Igualada" loading="lazy">
+<div class="campus-card__content">
+<h2>Campus Igualada</h2>
+<p>Grau en Enginyeria Informàtica</p>
+<span class="campus-card__link">Accedir al curs</span>
+</div>
+</a>
+</section>
+
+<footer class="landing-footer">
+<img src="assets/university.png" alt="Universitat de Lleida">
+<img src="assets/institute.png" alt="Escola Politècnica Superior">
+</footer>
+
+</div>
+</main>
